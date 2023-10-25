@@ -1,2 +1,1 @@
-# Pre-Estudio-Henry
-Primeros pasos en la programción
+Aprendiendo a crear un repositorio y clonarlo 
